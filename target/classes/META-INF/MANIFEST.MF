@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: AGS
+Build-Jdk: 15
+Implementation-Title: validTest
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.valid
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/validTest
+Created-By: Maven Integration for Eclipse
+
